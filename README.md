@@ -1,0 +1,1 @@
+### The Sample image is in public folder
